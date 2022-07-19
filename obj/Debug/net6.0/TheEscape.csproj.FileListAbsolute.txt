@@ -1,0 +1,54 @@
+C:\Users\mtheodorakopoulos\OneDrive - VIVA PAYMENT SERVICES S.A\Documents\MyProject\TheEscape\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mtheodorakopoulos\OneDrive - VIVA PAYMENT SERVICES S.A\Documents\MyProject\TheEscape\bin\Debug\net6.0\appsettings.json
+C:\Users\mtheodorakopoulos\OneDrive - VIVA PAYMENT SERVICES S.A\Documents\MyProject\TheEscape\bin\Debug\net6.0\TheEscape.staticwebassets.runtime.json
+C:\Users\mtheodorakopoulos\OneDrive - VIVA PAYMENT SERVICES S.A\Documents\MyProject\TheEscape\bin\Debug\net6.0\TheEscape.exe
+C:\Users\mtheodorakopoulos\OneDrive - VIVA PAYMENT SERVICES S.A\Documents\MyProject\TheEscape\bin\Debug\net6.0\TheEscape.deps.json
+C:\Users\mtheodorakopoulos\OneDrive - VIVA PAYMENT SERVICES S.A\Documents\MyProject\TheEscape\bin\Debug\net6.0\TheEscape.runtimeconfig.json
+C:\Users\mtheodorakopoulos\OneDrive - VIVA PAYMENT SERVICES S.A\Documents\MyProject\TheEscape\bin\Debug\net6.0\TheEscape.dll
+C:\Users\mtheodorakopoulos\OneDrive - VIVA PAYMENT SERVICES S.A\Documents\MyProject\TheEscape\bin\Debug\net6.0\TheEscape.pdb
+C:\Users\mtheodorakopoulos\OneDrive - VIVA PAYMENT SERVICES S.A\Documents\MyProject\TheEscape\obj\Debug\net6.0\TheEscape.csproj.AssemblyReference.cache
+C:\Users\mtheodorakopoulos\OneDrive - VIVA PAYMENT SERVICES S.A\Documents\MyProject\TheEscape\obj\Debug\net6.0\TheEscape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mtheodorakopoulos\OneDrive - VIVA PAYMENT SERVICES S.A\Documents\MyProject\TheEscape\obj\Debug\net6.0\TheEscape.AssemblyInfoInputs.cache
+C:\Users\mtheodorakopoulos\OneDrive - VIVA PAYMENT SERVICES S.A\Documents\MyProject\TheEscape\obj\Debug\net6.0\TheEscape.AssemblyInfo.cs
+C:\Users\mtheodorakopoulos\OneDrive - VIVA PAYMENT SERVICES S.A\Documents\MyProject\TheEscape\obj\Debug\net6.0\TheEscape.csproj.CoreCompileInputs.cache
+C:\Users\mtheodorakopoulos\OneDrive - VIVA PAYMENT SERVICES S.A\Documents\MyProject\TheEscape\obj\Debug\net6.0\TheEscape.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mtheodorakopoulos\OneDrive - VIVA PAYMENT SERVICES S.A\Documents\MyProject\TheEscape\obj\Debug\net6.0\TheEscape.RazorAssemblyInfo.cache
+C:\Users\mtheodorakopoulos\OneDrive - VIVA PAYMENT SERVICES S.A\Documents\MyProject\TheEscape\obj\Debug\net6.0\TheEscape.RazorAssemblyInfo.cs
+C:\Users\mtheodorakopoulos\OneDrive - VIVA PAYMENT SERVICES S.A\Documents\MyProject\TheEscape\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mtheodorakopoulos\OneDrive - VIVA PAYMENT SERVICES S.A\Documents\MyProject\TheEscape\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mtheodorakopoulos\OneDrive - VIVA PAYMENT SERVICES S.A\Documents\MyProject\TheEscape\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\mtheodorakopoulos\OneDrive - VIVA PAYMENT SERVICES S.A\Documents\MyProject\TheEscape\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\mtheodorakopoulos\OneDrive - VIVA PAYMENT SERVICES S.A\Documents\MyProject\TheEscape\obj\Debug\net6.0\scopedcss\bundle\TheEscape.styles.css
+C:\Users\mtheodorakopoulos\OneDrive - VIVA PAYMENT SERVICES S.A\Documents\MyProject\TheEscape\obj\Debug\net6.0\scopedcss\projectbundle\TheEscape.bundle.scp.css
+C:\Users\mtheodorakopoulos\OneDrive - VIVA PAYMENT SERVICES S.A\Documents\MyProject\TheEscape\obj\Debug\net6.0\TheEscape.dll
+C:\Users\mtheodorakopoulos\OneDrive - VIVA PAYMENT SERVICES S.A\Documents\MyProject\TheEscape\obj\Debug\net6.0\refint\TheEscape.dll
+C:\Users\mtheodorakopoulos\OneDrive - VIVA PAYMENT SERVICES S.A\Documents\MyProject\TheEscape\obj\Debug\net6.0\TheEscape.pdb
+C:\Users\mtheodorakopoulos\OneDrive - VIVA PAYMENT SERVICES S.A\Documents\MyProject\TheEscape\obj\Debug\net6.0\TheEscape.genruntimeconfig.cache
+C:\Users\mtheodorakopoulos\OneDrive - VIVA PAYMENT SERVICES S.A\Documents\MyProject\TheEscape\obj\Debug\net6.0\ref\TheEscape.dll
+C:\Users\mtheodorakopoulos\Documents\TheEscape\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mtheodorakopoulos\Documents\TheEscape\bin\Debug\net6.0\appsettings.json
+C:\Users\mtheodorakopoulos\Documents\TheEscape\bin\Debug\net6.0\TheEscape.staticwebassets.runtime.json
+C:\Users\mtheodorakopoulos\Documents\TheEscape\bin\Debug\net6.0\TheEscape.exe
+C:\Users\mtheodorakopoulos\Documents\TheEscape\bin\Debug\net6.0\TheEscape.deps.json
+C:\Users\mtheodorakopoulos\Documents\TheEscape\bin\Debug\net6.0\TheEscape.runtimeconfig.json
+C:\Users\mtheodorakopoulos\Documents\TheEscape\bin\Debug\net6.0\TheEscape.dll
+C:\Users\mtheodorakopoulos\Documents\TheEscape\bin\Debug\net6.0\TheEscape.pdb
+C:\Users\mtheodorakopoulos\Documents\TheEscape\obj\Debug\net6.0\TheEscape.csproj.AssemblyReference.cache
+C:\Users\mtheodorakopoulos\Documents\TheEscape\obj\Debug\net6.0\TheEscape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mtheodorakopoulos\Documents\TheEscape\obj\Debug\net6.0\TheEscape.AssemblyInfoInputs.cache
+C:\Users\mtheodorakopoulos\Documents\TheEscape\obj\Debug\net6.0\TheEscape.AssemblyInfo.cs
+C:\Users\mtheodorakopoulos\Documents\TheEscape\obj\Debug\net6.0\TheEscape.csproj.CoreCompileInputs.cache
+C:\Users\mtheodorakopoulos\Documents\TheEscape\obj\Debug\net6.0\TheEscape.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mtheodorakopoulos\Documents\TheEscape\obj\Debug\net6.0\TheEscape.RazorAssemblyInfo.cache
+C:\Users\mtheodorakopoulos\Documents\TheEscape\obj\Debug\net6.0\TheEscape.RazorAssemblyInfo.cs
+C:\Users\mtheodorakopoulos\Documents\TheEscape\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mtheodorakopoulos\Documents\TheEscape\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mtheodorakopoulos\Documents\TheEscape\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\mtheodorakopoulos\Documents\TheEscape\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\mtheodorakopoulos\Documents\TheEscape\obj\Debug\net6.0\scopedcss\bundle\TheEscape.styles.css
+C:\Users\mtheodorakopoulos\Documents\TheEscape\obj\Debug\net6.0\scopedcss\projectbundle\TheEscape.bundle.scp.css
+C:\Users\mtheodorakopoulos\Documents\TheEscape\obj\Debug\net6.0\TheEscape.dll
+C:\Users\mtheodorakopoulos\Documents\TheEscape\obj\Debug\net6.0\refint\TheEscape.dll
+C:\Users\mtheodorakopoulos\Documents\TheEscape\obj\Debug\net6.0\TheEscape.pdb
+C:\Users\mtheodorakopoulos\Documents\TheEscape\obj\Debug\net6.0\TheEscape.genruntimeconfig.cache
+C:\Users\mtheodorakopoulos\Documents\TheEscape\obj\Debug\net6.0\ref\TheEscape.dll
